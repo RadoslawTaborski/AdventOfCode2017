@@ -1,0 +1,11 @@
+E:\Programowanie\C#\AdventOfCode\Day8\Day8\bin\Debug\Day8.exe.config
+E:\Programowanie\C#\AdventOfCode\Day8\Day8\bin\Debug\Day8.exe
+E:\Programowanie\C#\AdventOfCode\Day8\Day8\bin\Debug\Day8.pdb
+E:\Programowanie\C#\AdventOfCode\Day8\Day8\bin\Debug\MoreLinq.dll
+E:\Programowanie\C#\AdventOfCode\Day8\Day8\bin\Debug\System.ValueTuple.dll
+E:\Programowanie\C#\AdventOfCode\Day8\Day8\bin\Debug\MoreLinq.xml
+E:\Programowanie\C#\AdventOfCode\Day8\Day8\bin\Debug\System.ValueTuple.xml
+E:\Programowanie\C#\AdventOfCode\Day8\Day8\obj\Debug\Day8.csprojResolveAssemblyReference.cache
+E:\Programowanie\C#\AdventOfCode\Day8\Day8\obj\Debug\Day8.csproj.CoreCompileInputs.cache
+E:\Programowanie\C#\AdventOfCode\Day8\Day8\obj\Debug\Day8.exe
+E:\Programowanie\C#\AdventOfCode\Day8\Day8\obj\Debug\Day8.pdb

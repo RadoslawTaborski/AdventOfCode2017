@@ -1,0 +1,7 @@
+E:\Programowanie\C#\AdventOfCode\Day5\Day5\bin\Debug\ConsoleApplication.exe.config
+E:\Programowanie\C#\AdventOfCode\Day5\Day5\bin\Debug\ConsoleApplication.exe
+E:\Programowanie\C#\AdventOfCode\Day5\Day5\bin\Debug\ConsoleApplication.pdb
+E:\Programowanie\C#\AdventOfCode\Day5\Day5\obj\x86\Debug\Day6.csprojResolveAssemblyReference.cache
+E:\Programowanie\C#\AdventOfCode\Day5\Day5\obj\x86\Debug\Day6.csproj.CoreCompileInputs.cache
+E:\Programowanie\C#\AdventOfCode\Day5\Day5\obj\x86\Debug\ConsoleApplication.exe
+E:\Programowanie\C#\AdventOfCode\Day5\Day5\obj\x86\Debug\ConsoleApplication.pdb

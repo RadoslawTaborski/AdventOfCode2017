@@ -1,0 +1,55 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Day3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var text = File.ReadAllText("data.txt");
+            var task1Result = new Task1(text).Result();
+            var task2Result = new Task2(text).Result();
+            Console.WriteLine(task1Result);
+            Console.Read();
+        }
+    }
+}
+
+
+public class Task1
+    {
+
+        public Task1(String text)
+        {
+
+        }
+
+        public int Result()
+        {
+            int result = 0;
+
+            return result;            
+        }
+    }
+
+
+public class Task2: Task1
+    {
+
+        public Task2(String text): base(text)
+        {
+
+        }
+
+        public new int Result()
+        {
+            int result = 0;
+
+            return result;
+        }
+    }
